@@ -11,7 +11,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "element-ui": "^2.2.1",
     "magnifier": "^0.4.0",
     "vue": "^2.3.3",
